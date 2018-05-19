@@ -1,0 +1,5 @@
+glassdoor.csv
+glassdoor.csv.old
+__pycache__
+*.html
+*.csv
